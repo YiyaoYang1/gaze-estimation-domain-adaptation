@@ -16,5 +16,3 @@ A conditional GAN is used to pull the clusters together.
 >Since the feature extractor has been generalized, training on source domain can enhance performance on target domain.
 
 ![95c61169cc2a19d6a91ad0ede0a65dd](https://user-images.githubusercontent.com/87518590/173186910-fa266fa8-fd47-4591-9784-69955d840ee7.png)
-
-The angular error is roughly 23 degree without domain adaptation, and drops to roughly 21 degree after domain adaptation.
