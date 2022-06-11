@@ -1,4 +1,4 @@
-# gaze-estimation-domain-adaptation
+# Domain Adaptation on Gaze Estimation
 This work aims to realize unsupervised domain adaptation on gaze estimation.
 If images are from different distribution, feature extractor will map them to different clusters in feature space. A conditional GAN is used to pull the clusters together.
 
